@@ -1,7 +1,3 @@
-Sure! Here's your markdown document with **Romanized pronunciation** added next to each relevant **German word or sentence**.
-
----
-
 # 🇩🇪 German’s 4 Grammatical Cases – Explained
 
 *(*Deutsch – Die vier Fälle = DOYCH – Dee feer FEH-luh*)*
