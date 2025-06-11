@@ -1,2 +1,2 @@
 # Learning-German
-Learning German with Ai
+Let's Learning German Together!!
