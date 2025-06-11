@@ -147,4 +147,3 @@ German uses **four cases** to show the **function of nouns and pronouns** in a s
 * Learn prepositions that always use a specific case (e.g., *mit* = dative, *für* = accusative).
 
 ---
-
