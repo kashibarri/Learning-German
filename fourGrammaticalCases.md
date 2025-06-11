@@ -148,4 +148,3 @@ German uses **four cases** to show the **function of nouns and pronouns** in a s
 
 ---
 
-Would you like flashcards or a printable cheat sheet for these cases? I can also provide exercises or sentence drills for each case.
